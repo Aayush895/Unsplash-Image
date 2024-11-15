@@ -1,0 +1,5 @@
+#galleryContainer {
+  display: grid;
+  grid-template-columns: repeat(3, 3fr);
+  grid-gap: 1rem;
+}
